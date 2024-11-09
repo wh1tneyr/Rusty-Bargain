@@ -1,2 +1,3 @@
-# Rusty-Bargain
-Modelos de regresión lineal y bosque aleatorio
+# Rusty-Bargain: Optimización de Predicciones del Valor de Autos Usando Modelos de Regresión 
+
+Rusty Bargain es un servicio de venta de autos de segunda mano que desarrolla una aplicación para ofrecer estimaciones rápidas del valor de mercado de los vehículos. El proyecto se centra en crear un modelo de regresión que prediga este valor utilizando los datos históricos de la empresa. Se evaluaron diversos modelos, incluyendo regresión lineal, Bosque Aleatorio, Árbol de Decisión, CatBoost y LightGBM, enfocándose en la calidad de las predicciones, la velocidad y el tiempo de entrenamiento. El objetivo es seleccionar el modelo más eficiente y preciso para implementar en la app, mejorando la experiencia del usuario.
